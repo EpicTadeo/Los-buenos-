@@ -1,0 +1,6 @@
+c:\users\tadeo\documents\visual studio 2012\Projects\Operacion\Operacion\bin\Debug\Operacion.exe.config
+c:\users\tadeo\documents\visual studio 2012\Projects\Operacion\Operacion\bin\Debug\Operacion.exe
+c:\users\tadeo\documents\visual studio 2012\Projects\Operacion\Operacion\bin\Debug\Operacion.pdb
+c:\users\tadeo\documents\visual studio 2012\Projects\Operacion\Operacion\obj\Debug\Operacion.csprojResolveAssemblyReference.cache
+c:\users\tadeo\documents\visual studio 2012\Projects\Operacion\Operacion\obj\Debug\Operacion.exe
+c:\users\tadeo\documents\visual studio 2012\Projects\Operacion\Operacion\obj\Debug\Operacion.pdb

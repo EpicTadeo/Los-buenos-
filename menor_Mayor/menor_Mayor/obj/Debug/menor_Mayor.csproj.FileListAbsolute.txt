@@ -1,0 +1,6 @@
+C:\Users\Tadeo\Documents\Visual Studio 2012\Projects\menor_Mayor\menor_Mayor\bin\Debug\menor_Mayor.exe.config
+C:\Users\Tadeo\Documents\Visual Studio 2012\Projects\menor_Mayor\menor_Mayor\bin\Debug\menor_Mayor.exe
+C:\Users\Tadeo\Documents\Visual Studio 2012\Projects\menor_Mayor\menor_Mayor\bin\Debug\menor_Mayor.pdb
+C:\Users\Tadeo\Documents\Visual Studio 2012\Projects\menor_Mayor\menor_Mayor\obj\Debug\menor_Mayor.csprojResolveAssemblyReference.cache
+C:\Users\Tadeo\Documents\Visual Studio 2012\Projects\menor_Mayor\menor_Mayor\obj\Debug\menor_Mayor.exe
+C:\Users\Tadeo\Documents\Visual Studio 2012\Projects\menor_Mayor\menor_Mayor\obj\Debug\menor_Mayor.pdb

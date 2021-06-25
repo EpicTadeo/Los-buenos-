@@ -1,0 +1,6 @@
+C:\Users\Tadeo\Documents\Visual Studio 2012\Projects\Cadena de caracteres\Cadena de caracteres\bin\Debug\Cadena de caracteres.exe.config
+C:\Users\Tadeo\Documents\Visual Studio 2012\Projects\Cadena de caracteres\Cadena de caracteres\bin\Debug\Cadena de caracteres.exe
+C:\Users\Tadeo\Documents\Visual Studio 2012\Projects\Cadena de caracteres\Cadena de caracteres\bin\Debug\Cadena de caracteres.pdb
+C:\Users\Tadeo\Documents\Visual Studio 2012\Projects\Cadena de caracteres\Cadena de caracteres\obj\Debug\Cadena de caracteres.csprojResolveAssemblyReference.cache
+C:\Users\Tadeo\Documents\Visual Studio 2012\Projects\Cadena de caracteres\Cadena de caracteres\obj\Debug\Cadena de caracteres.exe
+C:\Users\Tadeo\Documents\Visual Studio 2012\Projects\Cadena de caracteres\Cadena de caracteres\obj\Debug\Cadena de caracteres.pdb
