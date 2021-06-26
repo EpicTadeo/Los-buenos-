@@ -1,0 +1,6 @@
+C:\Users\Tadeo\Documents\Visual Studio 2012\Projects\Mecanico\Mecanico\bin\Debug\Mecanico.exe.config
+C:\Users\Tadeo\Documents\Visual Studio 2012\Projects\Mecanico\Mecanico\obj\Debug\Mecanico.csprojResolveAssemblyReference.cache
+C:\Users\Tadeo\Documents\Visual Studio 2012\Projects\Mecanico\Mecanico\bin\Debug\Mecanico.exe
+C:\Users\Tadeo\Documents\Visual Studio 2012\Projects\Mecanico\Mecanico\bin\Debug\Mecanico.pdb
+C:\Users\Tadeo\Documents\Visual Studio 2012\Projects\Mecanico\Mecanico\obj\Debug\Mecanico.exe
+C:\Users\Tadeo\Documents\Visual Studio 2012\Projects\Mecanico\Mecanico\obj\Debug\Mecanico.pdb
